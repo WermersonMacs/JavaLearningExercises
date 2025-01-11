@@ -1,0 +1,18 @@
+- Aqui estão algumas atividades de fixação utilizando o laço de repetição for em Java:
+  1. Soma de Números de 1 a N:Peça ao usuário para inserir um número N e calcule a soma
+    de todos os números inteiros de 1 até N usando o laço for.
+
+  2. Tabuada de um Número: Solicite ao usuário um número e imprima a tabuada desse número de 1 a 10.
+  3. Fatorial de um Número:Peça ao usuário para inserir um número e calcule seu fatorial utilizando
+    o laço for.
+  4. Imprimir Números Pares de 1 a N: Peça ao usuário um número N e imprima todos os números pares
+     entre 1 e N.
+  5. Imprimir Números de 1 a N em Ordem Reversa:Peça ao usuário um número N e imprima todos os
+     números de N até 1
+  6. Contagem de Dígitos de um Número
+     Solicite ao usuário que insira um número inteiro e calcule a quantidade de dígitos desse número
+     utilizando o laço for.
+  7. Imprimir a Sequência de Fibonacci até N: Peça ao usuário um número N e imprima a sequência de
+     Fibonacci até o valor N.
+  8. Verificar Se um Número é Primo: Peça ao usuário para inserir um número e verifique se ele é primo,
+     utilizando o laço for.
