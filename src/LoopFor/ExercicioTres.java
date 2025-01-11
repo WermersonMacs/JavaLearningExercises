@@ -19,7 +19,7 @@ public class ExercicioTres {
         } else {
             for (int i = 1; i <= valorDigitado; i++) {
                 fatorial *= i; // Multiplica o valor atual de 'fatorial' pelo valor de 'i'
-            }
+                }
             // Após o loop, exibe o resultado do fatorial calculado
             System.out.println("O valor fatorial de "+ valorDigitado + " é :" +fatorial);
         }
