@@ -1,8 +1,8 @@
-package IfElse;
+package ifelse;
 
 import java.util.Scanner;
 
-public class IfElse {
+public class ExercicioIfElse {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 /* Exercício: Estruturas Condicionais if e else

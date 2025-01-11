@@ -1,4 +1,4 @@
-package Casting;
+package casting;
 
 public class ExercicioCasting {
     public static void main(String[] args) {
