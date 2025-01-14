@@ -6,7 +6,7 @@ public class ExercicioSexto {
     public static void main(String[] args) {
         /*
         6. Contagem de Dígitos de um Número: Solicite ao usuário que insira um número inteiro e calcule a
-        quantidade de dígitos desse número utilizando o laço for.
+        quantidade de dígitos desses número utilizando o laço for.
          */
 
         // Criação de um objeto Scanner para ler a entrada do usuário
